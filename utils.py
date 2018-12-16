@@ -1,4 +1,3 @@
-# coding=utf-8
 import calendar
 import random
 import sys
